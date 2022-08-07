@@ -1,5 +1,5 @@
 ### API Com django 3 
-### Projeto desenvolvido durante a formacao django API da alura
+### Projeto desenvolvido durante a formacao API com Django 3: Django Rest Framework da alura
 <p> Para instalar o as dependencias do Projeto  </p>
 
 ```
